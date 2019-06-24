@@ -1,4 +1,4 @@
-# DSProject: Sistem i distribuar per te dhena te shkolles te mesme
+# Sistem i distribuar per te dhena te shkolles te mesme
 
 Sistemi ne fjale duhet te:
   - shfaq statistikat e shkolles te mesme, te profesoreve, studenteve, etj
