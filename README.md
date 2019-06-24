@@ -1,6 +1,12 @@
-# DSProject: Sistem i distribuar per te dhena te shkolles te mesme, qe perfshine server & klient qe mundesojne text dhe voice chat.
-[![](https://img.shields.io/badge/Author-Agon%20Hoxha-black.svg)](https://www.github.com/460N1/)
+# DSProject: Sistem i distribuar per te dhena te shkolles te mesme
 
+Sistemi ne fjale duhet te:
+  - shfaq statistikat e shkolles te mesme, te profesoreve, studenteve, etj
+  - ofron mundesi per komunikim me text (TEXT CHAT)
+  - ofron mundesi per komunikim me voice (VOICE CHAT)
+  
+  
+[![](https://img.shields.io/badge/Author-Agon%20Hoxha-black.svg)](https://www.github.com/460N1/)
 ![](https://img.shields.io/badge/Deadline-24/06/2019-yellow.svg) ![](https://img.shields.io/badge/Status-DONE-cream.svg)
 
 [![](https://img.shields.io/github/license/IceWall-Inc/DSProject.svg)](https://github.com/IceWall-Inc/DSProject/blob/master/LICENSE)
